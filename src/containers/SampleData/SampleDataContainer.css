@@ -1,0 +1,32 @@
+.sampe-data-container {
+    padding-left: 10px;
+}
+
+.sampe-data-container .header {
+    margin-left: -5px;
+}
+
+.sampe-data-container .sample-button {
+    border: 2px solid #6e78a2;
+    display: inline-block;
+    padding: 5px 10px;
+    background: #f3f3ff;
+    margin-right: 10px;
+}
+
+.sampe-data-container .sample-button:hover {
+    cursor: pointer;
+    border-color: #2f449a;
+}
+
+.sampe-data-container .sample-button.disabled
+, .sampe-data-container .sample-button.disabled:hover {
+    border-color: #ccc;
+    background-color: #eee;
+    color: #666;
+    cursor: default;
+}
+
+.sampe-data-container .tokens-list {
+    
+}

@@ -1,0 +1,1 @@
+[wiki page source](https://docs.metamask.io/guide/ethereum-provider.html)

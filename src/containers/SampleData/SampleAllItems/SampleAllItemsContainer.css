@@ -1,0 +1,8 @@
+.sample-all-items-container {
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.sample-all-items-container .header {
+    margin-left: -5px;
+}

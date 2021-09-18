@@ -1,0 +1,11 @@
+current state:
+- contracts
+    - Satisfaction done
+    - TheGrandMasterTokenCustodian has a bug in stop(...): coins are not transferred back
+- tests for contracts
+    - Satisfaction done
+    - TheGrandMasterTokenCustodian not done
+- react app
+    - just copied
+- tests for react app
+    - no tests

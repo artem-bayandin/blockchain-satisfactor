@@ -1,0 +1,13 @@
+.sample-mint-container {
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.sample-mint-container .header {
+    margin-left: -5px;
+}
+
+.sample-mint-container input {
+    height: 19px;
+    width: 100px;
+}

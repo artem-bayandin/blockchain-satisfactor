@@ -1,0 +1,8 @@
+.main-page {
+    padding: 20px;
+}
+
+.main-page .header {
+    font-weight: bold;
+    margin-bottom: 10px;
+}

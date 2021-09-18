@@ -1,0 +1,1 @@
+// export { MySmth } from './My/MySmth'
